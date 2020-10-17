@@ -12,4 +12,4 @@
 
 ---
 
-> vanilla JS Challenge Final App
+> vanilla JS Challenge Final App (NomadCoders)
